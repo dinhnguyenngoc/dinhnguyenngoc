@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
   <img src="https://media.giphy.com/media/tPnrnG9V6MrjnxVciE/giphy.gif" width="150" />
 </div>
 
@@ -33,8 +34,7 @@ Here are some ideas to get you started:
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Software Development Manager.
-
-Interests in Coaching, Mentoring, Project Management, Communication, Problem Solving, Badminton, Food, Travel, and More..
+<p>I am a Software Development Manager.</p>
+<p>Interests in Coaching, Mentoring, Project Management, Communication, Problem Solving, Badminton, Food, Travel, and More..</p>
 
 
