@@ -40,4 +40,7 @@ Here are some ideas to get you started:
 <p>I am a Software Development Manager.</p>
 <p>Interests in Coaching, Mentoring, Project Management, Communication, Problem Solving, Badminton, Food, Travel, and More..</p>
 
-
+<!--
+🌱 I’m currently building a resource learning
+https://flywcode.com/
+-->
