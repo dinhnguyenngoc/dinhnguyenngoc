@@ -20,7 +20,6 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/tPnrnG9V6MrjnxVciE/giphy.gif" width="250px" />
 </div>
 
-- 📫 How to reach me: ...
 <div id="badges">
   <a href="https://www.linkedin.com/in/dinhnn/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -40,9 +39,6 @@ Here are some ideas to get you started:
 
 <p>I am a Software Development Manager.</p>
 <p>Interests in Coaching, Mentoring, <a href="https://github.com/dinhnguyenngoc/learning-notes/tree/main/Project-Management">Project Management</a>, <a href="https://github.com/dinhnguyenngoc/learning-notes/tree/main/Communication">Communication</a>, Problem Solving, <a href="https://github.com/dinhnguyenngoc/learning-notes/tree/main/Business-Analyst">Business Analysis</a>, <a href="https://github.com/dinhnguyenngoc/learning-notes/tree/main/Microservices-and-Cloud-native-Apps">Microservice</a>, Badminton, Food, Travel, and More..</p>
-<p>
-  I would like to share with you
-</p>
 
 <div id="footer">
   <a href="https://github.com/dinhnguyenngoc/learning-notes">
