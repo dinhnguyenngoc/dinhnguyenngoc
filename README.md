@@ -38,7 +38,10 @@ Here are some ideas to get you started:
 ### :man_technologist: &nbsp;About Me
 
 <p>I am a Software Development Manager.</p>
-<p>Interests in Coaching, Mentoring, Project Management, Communication, Problem Solving, Badminton, Food, Travel, and More..</p>
+<p>Interests in Coaching, Mentoring, Project Management, Communication, Problem Solving, Business Analysis, Microservices, Badminton, Food, Travel, and More..</p>
+<p>
+  I would like to share with you <a href="https://github.com/dinhnguyenngoc/learning-notes" target="_blank">my learning notes</a>
+</p>
 
 <!--
 🌱 I’m currently building a resource learning
