@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 <p>
   I would like to share with you <a href="https://github.com/dinhnguyenngoc/learning-notes">my LEARNING NOTES</a>.
 </p>
+<p>See <a href="https://github.com/dinhnguyenngoc/dinhnn/blob/master/profile/Dinh-Nguyen-CV4.pdf">my CV</a>.</p>
 
 <!--
 🌱 I’m currently building a resource learning
