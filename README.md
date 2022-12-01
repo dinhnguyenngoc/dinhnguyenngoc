@@ -45,23 +45,18 @@ Here are some ideas to get you started:
 <p>
   I would like to share with you
 </p>
-<ul>
-  <li>
-    <a href="https://github.com/dinhnguyenngoc/learning-notes">
-      <img src="https://img.shields.io/badge/my_learning_notes-blue?style=for-the-badge" alt="Resume Badge"/>
-    </a>
-  </li>
-  <li>
-   <a href="https://github.com/dinhnguyenngoc/dinhnn/blob/master/profile/Dinh-Nguyen-CV.pdf">
-      <img src="https://img.shields.io/badge/my_resume-blue?style=for-the-badge" alt="Resume Badge"/>
-    </a>
-  </li>
-  <li>
-    <a href="https://dinhnguyenngoc.wordpress.com">
-      <img src="https://img.shields.io/badge/my_blogs-blue?style=for-the-badge" alt="Blogs Badge"/>
-    </a>
-  </li>
-</ul>
+
+<div id="footer">
+  <a href="https://github.com/dinhnguyenngoc/learning-notes">
+    <img src="https://img.shields.io/badge/my_learning_notes-blue?style=for-the-badge" alt="Resume Badge"/>
+  </a>
+  <a href="https://github.com/dinhnguyenngoc/dinhnn/blob/master/profile/Dinh-Nguyen-CV.pdf">
+    <img src="https://img.shields.io/badge/my_resume-blue?style=for-the-badge" alt="Resume Badge"/>
+  </a>
+  <a href="https://dinhnguyenngoc.wordpress.com">
+    <img src="https://img.shields.io/badge/my_blogs-blue?style=for-the-badge" alt="Blogs Badge"/>
+  </a>
+</div>
 
 <!--
 🌱 I’m currently building a resource learning
