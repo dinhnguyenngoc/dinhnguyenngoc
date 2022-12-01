@@ -20,6 +20,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/tPnrnG9V6MrjnxVciE/giphy.gif" width="250px" />
 </div>
 
+- 📫 How to reach me: ...
 <div id="badges">
   <a href="https://www.linkedin.com/in/dinhnn/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -32,9 +33,6 @@ Here are some ideas to get you started:
   </a>
   <a href="mailto:dinhnguyenngoc@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://dinhnguyenngoc.wordpress.com">
-    <img src="https://img.shields.io/badge/Wordpress-blue?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress Badge"/>
   </a>
 </div>
 
