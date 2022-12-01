@@ -33,6 +33,9 @@ Here are some ideas to get you started:
   <a href="mailto:dinhnguyenngoc@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+  <a href="https://dinhnguyenngoc.wordpress.com">
+    <img src="https://img.shields.io/badge/Wordpress-blue?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress Badge"/>
+  </a>
 </div>
 
 ### :man_technologist: &nbsp;About Me
