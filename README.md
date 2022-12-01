@@ -45,7 +45,9 @@ Here are some ideas to get you started:
 <p>
   I would like to share with you <a href="https://github.com/dinhnguyenngoc/learning-notes">my LEARNING NOTES</a>.
 </p>
-<p>See <a href="https://github.com/dinhnguyenngoc/dinhnn/blob/master/profile/Dinh-Nguyen-CV.pdf">my CV</a>.</p>
+<ul>
+  <li><a href="https://github.com/dinhnguyenngoc/dinhnn/blob/master/profile/Dinh-Nguyen-CV.pdf">my CV</a>.</li>
+</ul>
 
 <!--
 🌱 I’m currently building a resource learning
