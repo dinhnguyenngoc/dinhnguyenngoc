@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <div id="header">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200px" style="padding: 10px"/>
-  <img src="https://media.giphy.com/media/tPnrnG9V6MrjnxVciE/giphy.gif" width="250px" style="padding: 10px" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200px" />
+  <img src="https://media.giphy.com/media/tPnrnG9V6MrjnxVciE/giphy.gif" width="250px" />
 </div>
 
 <div id="badges">
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-### :man_technologist: &nbsp;About Me :
+### :man_technologist: &nbsp;About Me
 
 <p>I am a Software Development Manager.</p>
 <p>Interests in Coaching, Mentoring, Project Management, Communication, Problem Solving, Badminton, Food, Travel, and More..</p>
