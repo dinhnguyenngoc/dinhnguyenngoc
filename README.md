@@ -43,10 +43,24 @@ Here are some ideas to get you started:
 <p>I am a Software Development Manager.</p>
 <p>Interests in Coaching, Mentoring, <a href="https://github.com/dinhnguyenngoc/learning-notes/tree/main/Project-Management">Project Management</a>, <a href="https://github.com/dinhnguyenngoc/learning-notes/tree/main/Communication">Communication</a>, Problem Solving, <a href="https://github.com/dinhnguyenngoc/learning-notes/tree/main/Business-Analyst">Business Analysis</a>, <a href="https://github.com/dinhnguyenngoc/learning-notes/tree/main/Microservices-and-Cloud-native-Apps">Microservice</a>, Badminton, Food, Travel, and More..</p>
 <p>
-  I would like to share with you <a href="https://github.com/dinhnguyenngoc/learning-notes">my LEARNING NOTES</a>.
+  I would like to share with you
 </p>
 <ul>
-  <li><a href="https://github.com/dinhnguyenngoc/dinhnn/blob/master/profile/Dinh-Nguyen-CV.pdf">my CV</a>.</li>
+  <li>
+    <a href="https://github.com/dinhnguyenngoc/learning-notes">
+      <img src="https://img.shields.io/badge/my_learning_notes-blue?style=for-the-badge" alt="Resume Badge"/>
+    </a>
+  </li>
+  <li>
+   <a href="https://github.com/dinhnguyenngoc/dinhnn/blob/master/profile/Dinh-Nguyen-CV.pdf">
+      <img src="https://img.shields.io/badge/my_resume-blue?style=for-the-badge" alt="Resume Badge"/>
+    </a>
+  </li>
+  <li>
+    <a href="https://dinhnguyenngoc.wordpress.com">
+      <img src="https://img.shields.io/badge/my_blogs-blue?style=for-the-badge" alt="Blogs Badge"/>
+    </a>
+  </li>
 </ul>
 
 <!--
