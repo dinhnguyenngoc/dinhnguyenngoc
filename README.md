@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ### :man_technologist: &nbsp;About Me
 
 <p>I am a Software Development Manager.</p>
-<p>Interests in Coaching, Mentoring, Project Management, Communication, Problem Solving, Business Analysis, Microservices, Badminton, Food, Travel, and More..</p>
+<p>Interests in Coaching, Mentoring, <a href="https://github.com/dinhnguyenngoc/learning-notes/tree/main/Project-Management">Project Management</a>, <a href="https://github.com/dinhnguyenngoc/learning-notes/tree/main/Communication">Communication</a>, Problem Solving, <a href="https://github.com/dinhnguyenngoc/learning-notes/tree/main/Business-Analyst">Business Analysis</a>, <a href="https://github.com/dinhnguyenngoc/learning-notes/tree/main/Microservices-and-Cloud-native-Apps">Microservice</a>, Badminton, Food, Travel, and More..</p>
 <p>
   I would like to share with you <a href="https://github.com/dinhnguyenngoc/learning-notes">my LEARNING NOTES</a>.
 </p>
