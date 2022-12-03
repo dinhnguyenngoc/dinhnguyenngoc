@@ -56,9 +56,10 @@ Here are some ideas to get you started:
 
 #### 2018
 
-<p>Diễn giả tại FPT Techday với chủ đề “Công nghệ nhận diện khuôn mặt và các ứng dụng thực tế”</p>
-<p>Top 100 cán bộ xuất sắc tập đoàn FPT, tham dự lễ vinh danh tại Myanmar</p>
-
+<ul>
+  <li>Diễn giả tại FPT Techday với chủ đề “Công nghệ nhận diện khuôn mặt và các ứng dụng thực tế”</li>
+  <li>Top 100 cán bộ xuất sắc tập đoàn FPT, tham dự lễ vinh danh tại Myanmar</li>
+</ul>
 
 
 <!--
