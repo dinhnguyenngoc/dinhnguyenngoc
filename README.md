@@ -52,6 +52,15 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+### :man_technologist: &nbsp;My Activity
+
+#### 2018
+
+<p>Diễn giả tại FPT Techday với chủ đề “Công nghệ nhận diện khuôn mặt và các ứng dụng thực tế”</p>
+<p>Top 100 cán bộ xuất sắc tập đoàn FPT, tham dự lễ vinh danh tại Myanmar</p>
+
+
+
 <!--
 🌱 I’m currently building a resource learning
 https://flywcode.com/
