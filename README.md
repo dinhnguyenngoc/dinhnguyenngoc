@@ -54,13 +54,43 @@ Here are some ideas to get you started:
 
 ### :man_technologist: &nbsp;My Activity
 
-#### 2018
+#### 2015
 
 <ul>
   <li>Diễn giả tại FPT Techday với chủ đề “Công nghệ nhận diện khuôn mặt và các ứng dụng thực tế”</li>
   <li>Top 100 cán bộ xuất sắc tập đoàn FPT, tham dự lễ vinh danh tại Myanmar</li>
 </ul>
 
+#### 2017
+
+<ul>
+  <li>Diễn giả tại Vietnam Mobile Day với chủ đề “Hệ sinh thái di động của FPT Telecom hướng đến phục vụ khách hàng”</li>
+</ul>
+
+#### 2018
+
+<ul>
+  <li>[HCMUS] Người Trong Nghề - Doanh nghiệp chia sẻ Vai trò, nhiệm vụ, con đường nghề nghiệp của người Quản trị dự án</li>
+  <li>Tốt nghiệp MiniMBA tại trường FPT School of Business & Technology</li>
+</ul>
+
+#### 2019
+
+<ul>
+  <li>[FUNiX] xDay 47 - Kỹ năng viết CV ấn tượng và phỏng vấn hiệu quả</li>
+  <li>[FUNiX] xDay 48 - Career Paths cho hướng đi Full-time Developer tại doanh nghiệp</li>
+  <li>[HCMUS] Người Trong Nghề - Doanh nghiệp chia sẻ Các dự án in-house thực tế</li>
+  <li>Tham gia Revive Marathon Quận 7 cự ly 10km</li>
+  <li>Tham gia VnExpress Maraton Quy Nhơn cự ly 10km</li>
+  <li>Tham gia Techcombank International Marathon HCM cự ly Half marathon 21km</li>
+</ul>
+
+#### 2022
+
+<ul>
+  <li>[FPT University] - Chia sẻ Cách thức phát triển, triển khai ứng dụng web và con đường nghề nghiệp của Front-end Developer</li>
+  <li>[HCMUS] Người Trong Nghề - Doanh nghiệp chia sẻ Cách thức xây dựng, triển khai và mở rộng phần mềm</li>
+</ul>
 
 <!--
 🌱 I’m currently building a resource learning
