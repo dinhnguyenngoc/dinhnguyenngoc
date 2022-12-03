@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 #### 2013
 
 <ul>
-  <li><li>Đặt chân đến Malaysia lần 1</li>
+  <li>Đặt chân đến Malaysia lần 1</li>
 </ul>
 
 #### 2015
