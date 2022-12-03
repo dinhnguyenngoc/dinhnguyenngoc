@@ -61,6 +61,12 @@ Here are some ideas to get you started:
   <li>Top 100 cán bộ xuất sắc tập đoàn FPT, tham dự lễ vinh danh tại Myanmar</li>
 </ul>
 
+#### 2016
+
+<ul>
+  <li>Tham gia công việc Mentor tại FUNiX - Hệ sinh thái học trực tuyến Công nghệ thông tin</li>
+</ul>
+
 #### 2017
 
 <ul>
