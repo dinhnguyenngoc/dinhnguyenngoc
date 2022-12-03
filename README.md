@@ -54,23 +54,36 @@ Here are some ideas to get you started:
 
 ### :man_technologist: &nbsp;My Activity
 
+#### 2013
+
+<ul>
+  <li><li>Đặt chân đến Malaysia lần 1</li>
+</ul>
+
 #### 2015
 
 <ul>
   <li>Diễn giả tại FPT Techday với chủ đề “Công nghệ nhận diện khuôn mặt và các ứng dụng thực tế”</li>
   <li>Top 100 cán bộ xuất sắc tập đoàn FPT, tham dự lễ vinh danh tại Myanmar</li>
+  <li>Bắt đầu chơi Nhiếp ảnh</li>
+  <il>Đặt chân đến Myanmar lần thứ 1</li>
+  <li>Đặt chân đến Singapore lần thứ 1</li>
+  <li>Đặt chân đến Malaysia lần 2</li>
 </ul>
 
 #### 2016
 
 <ul>
   <li>Tham gia công việc Mentor tại FUNiX - Hệ sinh thái học trực tuyến Công nghệ thông tin</li>
+  <li>Đặt chân đến Singapore lần thứ 2</li>
 </ul>
 
 #### 2017
 
 <ul>
   <li>Diễn giả tại Vietnam Mobile Day với chủ đề “Hệ sinh thái di động của FPT Telecom hướng đến phục vụ khách hàng”</li>
+  <li>Leader Talk tại ĐH Mở với chủ đề "Kết nối FPT - Chuyển cơ hội thành hiện thực"</li>
+  <li>Đặt chân đến Cambodia lần thứ 1</li>
 </ul>
 
 #### 2018
@@ -78,6 +91,10 @@ Here are some ideas to get you started:
 <ul>
   <li>[HCMUS] Người Trong Nghề - Doanh nghiệp chia sẻ Vai trò, nhiệm vụ, con đường nghề nghiệp của người Quản trị dự án</li>
   <li>Tốt nghiệp MiniMBA tại trường FPT School of Business & Technology</li>
+  <li>Talkshow chào đón Tân sinh viên với chủ đề "Câu chuyện của tôi, sự lựa chọn của bạn" tại Đại học Hutech</li>
+  <li>Đặt chân đến Thailand lần thứ 1</li>
+  <li>Đặt chân đến Cambodia lần thứ 2</li>
+  <li>Đặt chân đến Malaysia lần 3</li>
 </ul>
 
 #### 2019
@@ -89,6 +106,21 @@ Here are some ideas to get you started:
   <li>Tham gia Revive Marathon Quận 7 cự ly 10km</li>
   <li>Tham gia VnExpress Maraton Quy Nhơn cự ly 10km</li>
   <li>Tham gia Techcombank International Marathon HCM cự ly Half marathon 21km</li>
+  <li>Đặt chân đến Thailand lần thứ 2</li>
+  <li>Đặt chân đến Singapore lần thứ 3</li>
+  <li>Đặt chân đến Cambodia lần thứ 3</li>
+</ul>
+
+#### 2020
+
+<ul>
+  <li>Ngủ đông qua đại dịch thế kỷ - COVID-19</li>
+</ul>
+
+#### 2021
+
+<ul>
+  <li>Tốt nghiệp khóa Bếp Việt tại trường Netspace</li>
 </ul>
 
 #### 2022
