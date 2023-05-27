@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ### :man_technologist: &nbsp;About Me
 
 <p>I am a Software Development Manager.</p>
-<p>Interests in <a href="https://funix.edu.vn/team_mf/nguyen-ngoc-dinh">Mentoring</a>, <a href="https://github.com/dinhnguyenngoc/learning-notes/tree/main/Project-Management">Project Management</a>, <a href="https://github.com/dinhnguyenngoc/learning-notes/tree/main/Communication">Communication</a>, Problem Solving, <a href="https://github.com/dinhnguyenngoc/learning-notes/tree/main/Business-Analyst">Business Analysis</a>, <a href="https://github.com/dinhnguyenngoc/learning-notes/tree/main/Microservices-and-Cloud-native-Apps">Microservice</a>, <a href="https://dinhnguyenngoc.notion.site/ChatGPT-23-tr-ng-h-p-s-d-ng-492599d98c174e8095f7c11cb5eec34a">ChatGPT Use Cases</a>, Badminton, Food, Travel, and More..</p>
+<p>Interests in <a href="https://funix.edu.vn/team_mf/nguyen-ngoc-dinh">Mentoring</a>, <a href="https://github.com/dinhnguyenngoc/learning-notes/tree/main/Project-Management">Project Management</a>, <a href="https://github.com/dinhnguyenngoc/learning-notes/tree/main/Communication">Communication</a>, Problem Solving, <a href="https://github.com/dinhnguyenngoc/learning-notes/tree/main/Business-Analyst">Business Analysis</a>, <a href="https://github.com/dinhnguyenngoc/learning-notes/tree/main/Microservices-and-Cloud-native-Apps">Microservice</a>, <a href="https://github.com/dinhnguyenngoc/learning-notes/blob/main/ChatGPT-Use-Cases/ChatGPT%20-%2023%20Use%20Cases.pdf">ChatGPT Use Cases</a>, Badminton, Food, Travel, and More..</p>
 
 <div id="footer">
   <a href="https://github.com/dinhnguyenngoc/learning-notes">
