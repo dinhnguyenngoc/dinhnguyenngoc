@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ### :man_technologist: &nbsp;About Me
 
 <p>I am a Software Development Manager.</p>
-<p>Interests in <a href="https://funix.edu.vn/team_mf/nguyen-ngoc-dinh">Mentoring</a>, <a href="https://github.com/dinhnguyenngoc/learning-notes/tree/main/Project-Management">Project Management</a>, <a href="https://github.com/dinhnguyenngoc/learning-notes/tree/main/Communication">Communication</a>, Problem Solving, <a href="https://github.com/dinhnguyenngoc/learning-notes/tree/main/Business-Analyst">Business Analysis</a>, <a href="https://github.com/dinhnguyenngoc/learning-notes/tree/main/Microservices-and-Cloud-native-Apps">Microservice</a>, Badminton, Food, Travel, and More..</p>
+<p>Interests in <a href="https://funix.edu.vn/team_mf/nguyen-ngoc-dinh">Mentoring</a>, <a href="https://github.com/dinhnguyenngoc/learning-notes/tree/main/Project-Management">Project Management</a>, <a href="https://github.com/dinhnguyenngoc/learning-notes/tree/main/Communication">Communication</a>, Problem Solving, <a href="https://github.com/dinhnguyenngoc/learning-notes/tree/main/Business-Analyst">Business Analysis</a>, <a href="https://github.com/dinhnguyenngoc/learning-notes/tree/main/Microservices-and-Cloud-native-Apps">Microservice</a>, <a href="https://dinhnguyenngoc.notion.site/ChatGPT-23-tr-ng-h-p-s-d-ng-492599d98c174e8095f7c11cb5eec34a">ChatGPT Use Cases</a>, Badminton, Food, Travel, and More..</p>
 
 <div id="footer">
   <a href="https://github.com/dinhnguyenngoc/learning-notes">
@@ -54,47 +54,29 @@ Here are some ideas to get you started:
 
 ### :man_technologist: &nbsp;My Activity
 
-#### 2013
+#### 2023
 
 <ul>
-  <li>Đặt chân đến Malaysia lần 1</li>
+  <li>[Đại học Văn Hiến] - Chia sẻ ChatGPT - khả năng, thách thức và cơ hội cho sinh viên.</li>
 </ul>
 
-#### 2015
+#### 2022
 
 <ul>
-  <li>Diễn giả tại FPT Techday với chủ đề “Công nghệ nhận diện khuôn mặt và các ứng dụng thực tế”</li>
-  <li>Top 100 cán bộ xuất sắc tập đoàn FPT, tham dự lễ vinh danh tại Myanmar</li>
-  <li>Bắt đầu chơi Nhiếp ảnh</li>
-  <il>Đặt chân đến Myanmar lần thứ 1</li>
-  <li>Đặt chân đến Singapore lần thứ 1</li>
-  <li>Đặt chân đến Malaysia lần 2</li>
+  <li>[FPT University] - Chia sẻ Cách thức phát triển, triển khai ứng dụng web và con đường nghề nghiệp của Front-end Developer</li>
+  <li>[HCMUS] Người Trong Nghề - Doanh nghiệp chia sẻ Cách thức xây dựng, triển khai và mở rộng phần mềm</li>
 </ul>
 
-#### 2016
+#### 2021
 
 <ul>
-  <li>Tham gia công việc Mentor tại FUNiX - Hệ sinh thái học trực tuyến Công nghệ thông tin</li>
-  <li>Đặt chân đến Singapore lần thứ 2</li>
+  <li>Tốt nghiệp khóa Bếp Việt tại trường Netspace</li>
 </ul>
 
-#### 2017
+#### 2020
 
 <ul>
-  <li>Diễn giả tại Vietnam Mobile Day với chủ đề “Hệ sinh thái di động của FPT Telecom hướng đến phục vụ khách hàng”</li>
-  <li>Leader Talk tại ĐH Mở với chủ đề "Kết nối FPT - Chuyển cơ hội thành hiện thực"</li>
-  <li>Đặt chân đến Cambodia lần thứ 1</li>
-</ul>
-
-#### 2018
-
-<ul>
-  <li>[HCMUS] Người Trong Nghề - Doanh nghiệp chia sẻ Vai trò, nhiệm vụ, con đường nghề nghiệp của người Quản trị dự án</li>
-  <li>Tốt nghiệp MiniMBA tại trường FPT School of Business & Technology</li>
-  <li>Talkshow chào đón Tân sinh viên với chủ đề "Câu chuyện của tôi, sự lựa chọn của bạn" tại Đại học Hutech</li>
-  <li>Đặt chân đến Thailand lần thứ 1</li>
-  <li>Đặt chân đến Cambodia lần thứ 2</li>
-  <li>Đặt chân đến Malaysia lần 3</li>
+  <li>Ngủ đông qua đại dịch thế kỷ - COVID-19</li>
 </ul>
 
 #### 2019
@@ -111,23 +93,47 @@ Here are some ideas to get you started:
   <li>Đặt chân đến Cambodia lần thứ 3</li>
 </ul>
 
-#### 2020
+#### 2018
 
 <ul>
-  <li>Ngủ đông qua đại dịch thế kỷ - COVID-19</li>
+  <li>[HCMUS] Người Trong Nghề - Doanh nghiệp chia sẻ Vai trò, nhiệm vụ, con đường nghề nghiệp của người Quản trị dự án</li>
+  <li>Tốt nghiệp MiniMBA tại trường FPT School of Business & Technology</li>
+  <li>Talkshow chào đón Tân sinh viên với chủ đề "Câu chuyện của tôi, sự lựa chọn của bạn" tại Đại học Hutech</li>
+  <li>Đặt chân đến Thailand lần thứ 1</li>
+  <li>Đặt chân đến Cambodia lần thứ 2</li>
+  <li>Đặt chân đến Malaysia lần 3</li>
 </ul>
 
-#### 2021
+#### 2017
 
 <ul>
-  <li>Tốt nghiệp khóa Bếp Việt tại trường Netspace</li>
+  <li>Diễn giả tại Vietnam Mobile Day với chủ đề “Hệ sinh thái di động của FPT Telecom hướng đến phục vụ khách hàng”</li>
+  <li>Leader Talk tại ĐH Mở với chủ đề "Kết nối FPT - Chuyển cơ hội thành hiện thực"</li>
+  <li>Đặt chân đến Cambodia lần thứ 1</li>
 </ul>
 
-#### 2022
+#### 2016
 
 <ul>
-  <li>[FPT University] - Chia sẻ Cách thức phát triển, triển khai ứng dụng web và con đường nghề nghiệp của Front-end Developer</li>
-  <li>[HCMUS] Người Trong Nghề - Doanh nghiệp chia sẻ Cách thức xây dựng, triển khai và mở rộng phần mềm</li>
+  <li>Tham gia công việc Mentor tại FUNiX - Hệ sinh thái học trực tuyến Công nghệ thông tin</li>
+  <li>Đặt chân đến Singapore lần thứ 2</li>
+</ul>
+
+#### 2015
+
+<ul>
+  <li>Diễn giả tại FPT Techday với chủ đề “Công nghệ nhận diện khuôn mặt và các ứng dụng thực tế”</li>
+  <li>Top 100 cán bộ xuất sắc tập đoàn FPT, tham dự lễ vinh danh tại Myanmar</li>
+  <li>Bắt đầu chơi Nhiếp ảnh</li>
+  <il>Đặt chân đến Myanmar lần thứ 1</li>
+  <li>Đặt chân đến Singapore lần thứ 1</li>
+  <li>Đặt chân đến Malaysia lần 2</li>
+</ul>
+
+#### 2013
+
+<ul>
+  <li>Đặt chân đến Malaysia lần 1</li>
 </ul>
 
 <!--
