@@ -52,6 +52,12 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+### :man_technologist: &nbsp;My Resource
+
+<ul>
+  <li><a href="https://github.com/dinhnguyenngoc/learning-notes/blob/b99037d3acce9ec4c4119947af03b3ed6bd1f3cd/macOS-App-List/macOS-App-List.pdf">macOS Application List (Các ứng dụng macOS hữu ích)</a></li>
+</ul>
+
 ### :man_technologist: &nbsp;My Activity
 
 #### 2023
