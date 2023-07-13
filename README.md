@@ -55,7 +55,8 @@ Here are some ideas to get you started:
 ### :man_technologist: &nbsp;My Resource
 
 <ul>
-  <li><a href="https://github.com/dinhnguyenngoc/learning-notes/blob/b99037d3acce9ec4c4119947af03b3ed6bd1f3cd/macOS-App-List/macOS-App-List.pdf">macOS Application List (Các ứng dụng macOS hữu ích)</a></li>
+  <li><a href="https://github.com/dinhnguyenngoc/learning-notes/blob/b99037d3acce9ec4c4119947af03b3ed6bd1f3cd/macOS-App-List/macOS-App-List.pdf">Các ứng dụng macOS hữu ích (macOS Application List)</a></li>
+  <li><a href="https://github.com/dinhnguyenngoc/learning-notes/blob/b99037d3acce9ec4c4119947af03b3ed6bd1f3cd/ChatGPT-Use-Cases/ChatGPT%20-%2023%20Use%20Cases.pdf">Hướng dẫn dùng ChatGPT (ChatGPT Use Cases)</a></li>
 </ul>
 
 ### :man_technologist: &nbsp;My Activity
