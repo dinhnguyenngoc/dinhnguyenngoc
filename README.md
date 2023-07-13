@@ -73,7 +73,8 @@ Here are some ideas to get you started:
 #### 2023
 
 <ul>
-  <li>[Đại học Văn Hiến] - Chia sẻ ChatGPT - khả năng, thách thức và cơ hội cho sinh viên.</li>
+  <li>[Đại học Văn Hiến] - Chia sẻ ChatGPT - khả năng, thách thức và cơ hội cho sinh viên</li>
+  <li>Tham gia VnExpress Marathon Ho Chi Minh City Midnight cư ly 10km</li>
 </ul>
 
 #### 2022
