@@ -62,6 +62,12 @@ Here are some ideas to get you started:
   <li><a href="https://github.com/dinhnguyenngoc/learning-notes/blob/b99037d3acce9ec4c4119947af03b3ed6bd1f3cd/ChatGPT-Use-Cases/ChatGPT%20-%2023%20Use%20Cases.pdf">Hướng dẫn dùng ChatGPT (ChatGPT Use Cases)</a></li>
 </ul>
 
+### :man_technologist: &nbsp;Some Project
+
+<ul>
+  <li><a href="https://github.com/dinhnguyenngoc/pair-game">Pair Game</a></li>
+</ul>
+
 ### :man_technologist: &nbsp;My Activity
 
 #### 2023
