@@ -51,7 +51,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/my_wordpress_blogs-blue?style=for-the-badge" alt="Blogs Badge"/>
   </a>
   <a href="https://dinhnguyenngoc.github.io/news-feed">
-    <img src="https://img.shields.io/badge/my_skyll_blogs-blue?style=for-the-badge" alt="Blogs Badge"/>
+    <img src="https://img.shields.io/badge/my_Jekyll_blogs-blue?style=for-the-badge" alt="Blogs Badge"/>
   </a>
 </div>
 
