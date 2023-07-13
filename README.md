@@ -45,13 +45,13 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/my_learning_notes-blue?style=for-the-badge" alt="Resume Badge"/>
   </a>
   <a href="https://github.com/dinhnguyenngoc/dinhnn/blob/master/profile/Dinh-Nguyen-CV.pdf">
-    <img src="https://img.shields.io/badge/my_resume-blue?style=for-the-badge" alt="Resume Badge"/>
+    <img src="https://img.shields.io/badge/my_resume-red?style=for-the-badge" alt="Resume Badge"/>
   </a>
   <a href="https://dinhnguyenngoc.wordpress.com">
     <img src="https://img.shields.io/badge/my_wordpress_blogs-blue?style=for-the-badge" alt="Blogs Badge"/>
   </a>
   <a href="https://dinhnguyenngoc.github.io/news-feed">
-    <img src="https://img.shields.io/badge/my_Jekyll_blogs-blue?style=for-the-badge" alt="Blogs Badge"/>
+    <img src="https://img.shields.io/badge/my_Jekyll_blogs-red?style=for-the-badge" alt="Blogs Badge"/>
   </a>
 </div>
 
