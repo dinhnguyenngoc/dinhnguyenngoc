@@ -74,6 +74,7 @@ Here are some ideas to get you started:
 #### 2023
 
 <ul>
+  <li>[Đại học KHTN] - Chia sẻ về Chuyển đổi số - Vai trò, phương pháp, công nghệ và cơ hội nghề nghiệp</li>
   <li>[Đại học Văn Hiến] - Chia sẻ ChatGPT - khả năng, thách thức và cơ hội cho sinh viên</li>
   <li>Tham gia VnExpress Marathon Ho Chi Minh City Midnight cư ly 10km</li>
 </ul>
