@@ -60,6 +60,7 @@ Here are some ideas to get you started:
 <ul>
   <li><a href="https://github.com/dinhnguyenngoc/learning-notes/blob/b99037d3acce9ec4c4119947af03b3ed6bd1f3cd/macOS-App-List/macOS-App-List.pdf">Các ứng dụng macOS hữu ích (macOS Application List)</a></li>
   <li><a href="https://github.com/dinhnguyenngoc/learning-notes/blob/b99037d3acce9ec4c4119947af03b3ed6bd1f3cd/ChatGPT-Use-Cases/ChatGPT%20-%2023%20Use%20Cases.pdf">Hướng dẫn dùng ChatGPT (ChatGPT Use Cases)</a></li>
+  <li><a href="https://github.com/dinhnguyenngoc/learning-notes/blob/7af90d2baab134b52aa431e96bf0cdae7441e91a/Learning-Courses-List/M%E1%BB%99t%20s%E1%BB%91%20kh%C3%B3a%20h%E1%BB%8Dc%20v%E1%BB%81%20khoa%20h%E1%BB%8Dc%20m%C3%A1y%20t%C3%ADnh%20v%C3%A0%20l%E1%BA%ADp%20tr%C3%ACnh%20MI%E1%BB%84N%20PH%C3%8D.pdf">Một số khóa học về khoa học máy tính và lập trình MIỄN PHÍ</a></li>
 </ul>
 
 ### :man_technologist: &nbsp;My Project
