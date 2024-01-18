@@ -71,9 +71,17 @@ Here are some ideas to get you started:
 
 ### :man_technologist: &nbsp;My Activity
 
+#### 2024
+<ul>
+  <li>Tham gia HCMC Marathon cự ly 21km</li>
+</ul>
+
 #### 2023
 
 <ul>
+  <li>Tham gia Pocari Sweat Run cự ly 21km</li>
+  <li>[Đại học HUTECH] - Chia sẻ về Quản lý dự án phần mềm</li>
+  <li>[Đại học HUTECH] - Chia sẻ về Phân tích nghiệp vụ phần mềm</li>
   <li>[Đại học KHTN] - Chia sẻ về Chuyển đổi số - Vai trò, phương pháp, công nghệ và cơ hội nghề nghiệp</li>
   <li>[Đại học Văn Hiến] - Chia sẻ ChatGPT - khả năng, thách thức và cơ hội cho sinh viên</li>
   <li>Tham gia VnExpress Marathon Ho Chi Minh City Midnight cư ly 10km</li>
@@ -105,7 +113,7 @@ Here are some ideas to get you started:
   <li>[FUNiX] xDay 48 - Career Paths cho hướng đi Full-time Developer tại doanh nghiệp</li>
   <li>[HCMUS] Người Trong Nghề - Doanh nghiệp chia sẻ Các dự án in-house thực tế</li>
   <li>Tham gia Revive Marathon Quận 7 cự ly 10km</li>
-  <li>Tham gia VnExpress Maraton Quy Nhơn cự ly 10km</li>
+  <li>Tham gia VnExpress Marathon Quy Nhơn cự ly 10km</li>
   <li>Tham gia Techcombank International Marathon HCM cự ly Half marathon 21km</li>
   <li>Đặt chân đến Thailand lần thứ 2</li>
   <li>Đặt chân đến Singapore lần thứ 3</li>
