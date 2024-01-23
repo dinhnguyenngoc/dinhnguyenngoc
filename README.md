@@ -84,7 +84,7 @@ Here are some ideas to get you started:
   <li>[FPT Telcom] Business Analysis Course</li>
 </ul>
 
-### :man_technologist: &nbsp;Training
+### :man_technologist: &nbsp;Coaching & Mentoring
 
 <ul>
   <li>[FPT Telecom] Mentor for Mentorship Program 2023</li>
