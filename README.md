@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ### :man_technologist: &nbsp;About Me
 
-<p>I graduated with a degree in Software Technology and have held various positions ranging from Developer, Team Leader, Project Manager, Solution Architect, to Manager.</p>
+<p>I graduated with a degree in Software Technology. Over my career, I have held various positions including Developer, Team Leader, Project Manager, Solution Architect, and Manager.</p>
 <p>I am serving as the Software Development Manager at FPT Telecom, and I am also engaged in mentoring at FUNiX, as well as being a speaker at various events at universities.</p>
 <p>My current interests lie in areas such as <a href="https://github.com/dinhnguyenngoc/learning-notes/tree/main/Project-Management">Project Management</a>, <a href="https://github.com/dinhnguyenngoc/learning-notes/tree/main/Business-Analyst">Business Analysis</a>, <a href="https://github.com/dinhnguyenngoc/learning-notes/tree/main/Microservices-and-Cloud-native-Apps">Cloud Native and Microservices</a>, Application Monitoring and Observability, Real-time ETL, <a href="https://github.com/dora-team/fourkeys">High-Performing Teams</a>, and <a href="https://github.com/dinhnguyenngoc/learning-notes/blob/main/ChatGPT-Use-Cases/ChatGPT%20-%2023%20Use%20Cases.pdf">Prompt Engineering</a>.</p>
 <p>In my free time, I like to go running, play badminton, have coffee with friends, and go traveling and camping.</p>
@@ -50,14 +50,23 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/my_resume-red?style=for-the-badge" alt="Resume Badge"/>
   </a>
   <a href="https://dinhnguyenngoc.wordpress.com">
-    <img src="https://img.shields.io/badge/my_wordpress_blogs-blue?style=for-the-badge" alt="Blogs Badge"/>
+    <img src="https://img.shields.io/badge/my_wordpress_blog-blue?style=for-the-badge" alt="Blog Badge"/>
   </a>
   <a href="https://dinhnguyenngoc.github.io/news-feed">
-    <img src="https://img.shields.io/badge/my_Jekyll_blogs-red?style=for-the-badge" alt="Blogs Badge"/>
+    <img src="https://img.shields.io/badge/my_Jekyll_blog-red?style=for-the-badge" alt="Blog Badge"/>
   </a>
 </div>
 
-### :man_technologist: &nbsp;My Resource
+### :man_technologist: &nbsp;Talks
+
+<ul>
+  <li>[Hutech University] Project Management Fundamentals</li>
+  <li>[Hutech University] IT Business Analysis Fundamentals</li>
+  <li>[University of Science] Digital Transformation and Opportunities for Students</li>
+  <li>[Van Hien University] ChatGPT: Capabilities, Opportunities, and Challenges</li>
+</ul>
+
+### :man_technologist: &nbsp;Resources
 
 <ul>
   <li><a href="https://github.com/dinhnguyenngoc/learning-notes/blob/b99037d3acce9ec4c4119947af03b3ed6bd1f3cd/macOS-App-List/macOS-App-List.pdf">Các ứng dụng macOS hữu ích (macOS Application List)</a></li>
@@ -65,13 +74,13 @@ Here are some ideas to get you started:
   <li><a href="https://github.com/dinhnguyenngoc/learning-notes/blob/7af90d2baab134b52aa431e96bf0cdae7441e91a/Learning-Courses-List/M%E1%BB%99t%20s%E1%BB%91%20kh%C3%B3a%20h%E1%BB%8Dc%20v%E1%BB%81%20khoa%20h%E1%BB%8Dc%20m%C3%A1y%20t%C3%ADnh%20v%C3%A0%20l%E1%BA%ADp%20tr%C3%ACnh%20MI%E1%BB%84N%20PH%C3%8D.pdf">Một số khóa học về khoa học máy tính và lập trình MIỄN PHÍ</a></li>
 </ul>
 
-### :man_technologist: &nbsp;My Project
+### :man_technologist: &nbsp;Project
 
 <ul>
   <li><a href="https://github.com/dinhnguyenngoc/pair-game">Pair Game</a></li>
 </ul>
 
-### :man_technologist: &nbsp;My Activity
+### :man_technologist: &nbsp;Activity
 
 #### 2024
 <ul>
