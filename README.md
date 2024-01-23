@@ -64,6 +64,16 @@ Here are some ideas to get you started:
   <li>[Hutech University] IT Business Analysis Fundamentals</li>
   <li>[University of Science] Digital Transformation and Opportunities for Students</li>
   <li>[Van Hien University] ChatGPT: Capabilities, Opportunities, and Challenges</li>
+  <li>[FPT University] Building and Deploying Web Applications and the Career Path of a Front-end Developer</li>
+  <li>[University of Science] How to Build, Deploy, and Scale Software Application</li>
+  <li>[FUNiX University] Impressive Resume Writing Skills and Effective Interview Techniques<li>
+  <li>[FUNiX University] Career Path for a Full-time Developer in a Corporate Environment</li>
+  <li>[University of Science] Real-World In-House Software Projects in Businesses</li>
+  <li>[University of Science] Roles, Responsibilities, and Career Path of a Project Manager</li>
+  <li>[Hutech University] My Story, Your Choice</li>
+  <li>[Vietnam Mobile Day] FPT Telecom's Mobile Ecosystem Serving Customers</li>
+  <li>[Open University] Connecting with FPT - Turning Opportunities into Reality</li>
+  <li>[FPT Tech Day] Facial Recognition Technology and Its Real-World Applications</li>
 </ul>
 
 ### :man_technologist: &nbsp;Resources
