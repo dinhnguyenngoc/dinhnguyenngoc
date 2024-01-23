@@ -33,6 +33,9 @@ Here are some ideas to get you started:
   <a href="mailto:dinhnguyenngoc@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Photos-blue?style=for-the-badge&logo=photos&logoColor=white" alt="Photo Badge"/>
+  </a>
 </div>
 
 ### :man_technologist: &nbsp;About Me
