@@ -66,7 +66,8 @@ Here are some ideas to get you started:
   <li>[Van Hien University] ChatGPT: Capabilities, Opportunities, and Challenges</li>
   <li>[FPT University] Building and Deploying Web Applications and the Career Path of a Front-end Developer</li>
   <li>[University of Science] How to Build, Deploy, and Scale Software Application</li>
-  <li>[FUNiX University] Impressive Resume Writing Skills and Effective Interview Techniques<li>
+  <li>[FPT Telecom] IT Business Analysis for Product Owners</li>
+  <li>[FUNiX University] Impressive Resume Writing Skills and Effective Interview Techniques</li>
   <li>[FUNiX University] Career Path for a Full-time Developer in a Corporate Environment</li>
   <li>[University of Science] Real-World In-House Software Projects in Businesses</li>
   <li>[University of Science] Roles, Responsibilities, and Career Path of a Project Manager</li>
@@ -74,6 +75,32 @@ Here are some ideas to get you started:
   <li>[Vietnam Mobile Day] FPT Telecom's Mobile Ecosystem Serving Customers</li>
   <li>[Open University] Connecting with FPT - Turning Opportunities into Reality</li>
   <li>[FPT Tech Day] Facial Recognition Technology and Its Real-World Applications</li>
+</ul>
+
+### :man_technologist: &nbsp;Training
+
+<ul>
+  <li>[FPT Telecom] Project Management Course</li>
+  <li>[FPT Telcom] Business Analysis Course</li>
+</ul>
+
+### :man_technologist: &nbsp;Training
+
+<ul>
+  <li>[FPT Telecom] Mentor for Mentorship Program 2023</li>
+  <li>[FPT Telecom] Mentor for Mentorship Program 2022</li>
+  <li>[FPT Telecom - ISC] Master for "Sư phụ - Đệ tử" Program 2021</li>
+</ul>
+
+### :man_technologist: &nbsp;Running
+
+<ul>
+  <li>HCMC Marathon 2024, 21km</li>
+  <li>Pocari Sweat Run 2023, 21km</li>
+  <li>VnExpress Marathon Ho Chi Minh City Midnight 2023, 10km</li>
+  <li>Techcombank International Marathon Ho Chi Minh 2019, 21km</li>
+  <li>Revive Marathon 2019, 10km</li>
+  <li>VnExpress Marathon Quy Nhon, 10km</li>
 </ul>
 
 ### :man_technologist: &nbsp;Resources
@@ -133,9 +160,9 @@ Here are some ideas to get you started:
   <li>[FUNiX] xDay 47 - Kỹ năng viết CV ấn tượng và phỏng vấn hiệu quả</li>
   <li>[FUNiX] xDay 48 - Career Paths cho hướng đi Full-time Developer tại doanh nghiệp</li>
   <li>[HCMUS] Người Trong Nghề - Doanh nghiệp chia sẻ Các dự án in-house thực tế</li>
+  <li>Tham gia Techcombank International Marathon HCM cự ly Half marathon 21km</li>
   <li>Tham gia Revive Marathon Quận 7 cự ly 10km</li>
   <li>Tham gia VnExpress Marathon Quy Nhơn cự ly 10km</li>
-  <li>Tham gia Techcombank International Marathon HCM cự ly Half marathon 21km</li>
   <li>Đặt chân đến Thailand lần thứ 2</li>
   <li>Đặt chân đến Singapore lần thứ 3</li>
   <li>Đặt chân đến Cambodia lần thứ 3</li>
