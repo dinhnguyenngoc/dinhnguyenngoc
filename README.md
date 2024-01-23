@@ -1,9 +1,5 @@
 ### Hi there 👋
-<style>
-  h3 > span {
-    color: #a51c30;
-  }
-</style>
+
 <!--
 **dinhnguyenngoc/dinhnguyenngoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -42,7 +38,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-### :man_technologist: &nbsp;<span>About Me</span>
+### :man_technologist: &nbsp;About Me
 
 <p>I graduated with a degree in Software Technology. Over my career, I have held various positions including Developer, Team Leader, Project Manager, Solution Architect, and Manager.</p>
 <p>I am serving as the Software Development Manager at FPT Telecom, and I am also engaged in mentoring at FUNiX, as well as being a speaker at various events at universities.</p>
