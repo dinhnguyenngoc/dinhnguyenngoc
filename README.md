@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-### :man_technologist: &nbsp;<font color='#a51c30'>About Me</font>
+### <span style="color: #a51c30">:man_technologist: &nbsp;About Me</span>
 
 <p>I graduated with a degree in Software Technology. Over my career, I have held various positions including Developer, Team Leader, Project Manager, Solution Architect, and Manager.</p>
 <p>I am serving as the Software Development Manager at FPT Telecom, and I am also engaged in mentoring at FUNiX, as well as being a speaker at various events at universities.</p>
