@@ -217,7 +217,7 @@ Here are some ideas to get you started:
   <li>Đặt chân đến Malaysia lần 1</li>
 </ul>
 
-![Visitor Count](https://profile-counter.glitch.me/dinhnguyenngoc/count.svg)
+<img src="https://komarev.com/ghpvc/?username=dinhnguyenngoc&label=Profile%20views&color=0e75b6&style=flat" alt="dinhnguyenngoc" />
 
 <!--
 🌱 I’m currently building a resource learning
