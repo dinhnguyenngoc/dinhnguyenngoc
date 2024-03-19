@@ -217,6 +217,8 @@ Here are some ideas to get you started:
   <li>Đặt chân đến Malaysia lần 1</li>
 </ul>
 
+![Visitor Count](https://profile-counter.glitch.me/dinhnguyenngoc/count.svg)
+
 <!--
 🌱 I’m currently building a resource learning
 https://flywcode.com/
