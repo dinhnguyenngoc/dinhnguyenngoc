@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 ### :man_technologist: &nbsp;Talks
 
 <ul>
-  <li>[Van Lang Sai Gon College] AI Applications in Education<li>
+  <li>[Van Lang Sai Gon College] AI Applications in Education</li>
   <li>[Hutech University] Project Management Fundamentals</li>
   <li>[Hutech University] IT Business Analysis Fundamentals</li>
   <li>[University of Science] Digital Transformation and Opportunities for Students</li>
