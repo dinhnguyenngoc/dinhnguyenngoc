@@ -84,6 +84,7 @@ Here are some ideas to get you started:
 ### :man_technologist: &nbsp;Training
 
 <ul>
+  <li>ChatGPT & Google Gemini - Bí quyết viết Prompt hiệu quả | Udemy</li>
   <li>[FPT Telecom] Project Management Course</li>
   <li>[FPT Telcom] Business Analysis Course</li>
 </ul>
@@ -103,12 +104,12 @@ Here are some ideas to get you started:
   <li>HCMC Night Run Eximbank 2024, 21km</li>
   <li>Danang International Marathon 2024, 21km</li>
   <li>VnExpress HCMC Midnight Marathon 2024, 21km</li>
-  <li>HCMC Marathon 2024, 21km</li>
+  <li>Ho Chi Minh City Marathon 2024, 21km</li>
   <li>Pocari Sweat Run 2023, 21km</li>
-  <li>VnExpress Marathon Ho Chi Minh City Midnight 2023, 10km</li>
+  <li>VnExpress Marathon HCMC Midnight 2023, 10km</li>
   <li>Techcombank International Marathon Ho Chi Minh 2019, 21km</li>
   <li>Revive Marathon 2019, 21km</li>
-  <li>VnExpress Marathon Quy Nhon, 10km</li>
+  <li>VnExpress Marathon Quy Nhon 2019, 10km</li>
 </ul>
 
 ### :man_technologist: &nbsp;Resources
@@ -133,7 +134,7 @@ Here are some ideas to get you started:
   <li>Tham gia Danang International Marathon cự ly 21km</li>
   <li>[Cao đẳng Văn Lang Sài Gòn] - Chia sẻ về AI - Góc nhìn thực chiến</li>
   <li>Tham gia VnExpress Marathon HCMC Midnight cự ly 21km</li>
-  <li>Tham gia HCMC Marathon cự ly 21km</li>
+  <li>Tham gia Ho Chi Minh City Marathon cự ly 21km</li>
 </ul>
 
 #### 2023
@@ -144,7 +145,7 @@ Here are some ideas to get you started:
   <li>[Đại học HUTECH] - Chia sẻ về Phân tích nghiệp vụ phần mềm</li>
   <li>[Đại học KHTN] - Chia sẻ về Chuyển đổi số - Vai trò, phương pháp, công nghệ và cơ hội nghề nghiệp</li>
   <li>[Đại học Văn Hiến] - Chia sẻ ChatGPT - khả năng, thách thức và cơ hội cho sinh viên</li>
-  <li>Tham gia VnExpress Marathon Ho Chi Minh City Midnight cư ly 10km</li>
+  <li>Tham gia VnExpress Marathon HCMC Midnight cư ly 10km</li>
 </ul>
 
 #### 2022
