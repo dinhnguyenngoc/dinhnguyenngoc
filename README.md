@@ -100,6 +100,7 @@ Here are some ideas to get you started:
 ### :man_technologist: &nbsp;Running
 
 <ul>
+  <li>HCMC Night Run Eximbank 2024, 21km</li>
   <li>Danang International Marathon 2024, 21km</li>
   <li>VnExpress HCMC Midnight Marathon 2024, 21km</li>
   <li>HCMC Marathon 2024, 21km</li>
@@ -128,6 +129,7 @@ Here are some ideas to get you started:
 
 #### 2024
 <ul>
+  <li>Tham gia HCMC Night Run Eximbank cự ly 21km</li>
   <li>Tham gia Danang International Marathon cự ly 21km</li>
   <li>[Cao đẳng Văn Lang Sài Gòn] - Chia sẻ về AI - Góc nhìn thực chiến</li>
   <li>Tham gia VnExpress Marathon HCMC Midnight cự ly 21km</li>
