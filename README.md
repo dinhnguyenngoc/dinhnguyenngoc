@@ -63,9 +63,11 @@ Here are some ideas to get you started:
 ### :man_technologist: &nbsp;Talks
 
 <ul>
+  <li>[HUTECH University] From Developer to Project Manager: Opportunities and Challenges</li>
+  <li>[HUTECH University] Becoming a Business Analyst: Opportunities and Challenges</li>
   <li>[Van Lang Sai Gon College] AI Applications in Education</li>
-  <li>[Hutech University] Project Management Fundamentals</li>
-  <li>[Hutech University] IT Business Analysis Fundamentals</li>
+  <li>[HUTECH University] Project Management Fundamentals</li>
+  <li>[HUTECH University] IT Business Analysis Fundamentals</li>
   <li>[University of Science] Digital Transformation and Opportunities for Students</li>
   <li>[Van Hien University] ChatGPT: Capabilities, Opportunities, and Challenges</li>
   <li>[FPT University] Building and Deploying Web Applications and the Career Path of a Front-end Developer</li>
@@ -75,7 +77,7 @@ Here are some ideas to get you started:
   <li>[FUNiX University] Career Path for a Full-time Developer in a Corporate Environment</li>
   <li>[University of Science] Real-World In-House Software Projects in Businesses</li>
   <li>[University of Science] Roles, Responsibilities, and Career Path of a Project Manager</li>
-  <li>[Hutech University] My Story, Your Choice</li>
+  <li>[HUTECH University] My Story, Your Choice</li>
   <li>[Vietnam Mobile Day] FPT Telecom's Mobile Ecosystem Serving Customers</li>
   <li>[Open University] Connecting with FPT - Turning Opportunities into Reality</li>
   <li>[FPT Tech Day] Facial Recognition Technology and Its Real-World Applications</li>
@@ -92,6 +94,7 @@ Here are some ideas to get you started:
 ### :man_technologist: &nbsp;Coaching & Mentoring
 
 <ul>
+  <li>[FPT Telecom] Mentor for Mentorship Program 2025</li>
   <li>[FPT Telecom] Mentor for Mentorship Program 2024</li>
   <li>[FPT Telecom] Mentor for Mentorship Program 2023</li>
   <li>[FPT Telecom] Mentor for Mentorship Program 2022</li>
@@ -101,6 +104,7 @@ Here are some ideas to get you started:
 ### :man_technologist: &nbsp;Running
 
 <ul>
+  <li>Can Tho Heritage Marathon 2024, 21km</li>
   <li>HCMC Night Run Eximbank 2024, 21km</li>
   <li>Danang International Marathon 2024, 21km</li>
   <li>VnExpress HCMC Midnight Marathon 2024, 21km</li>
@@ -128,8 +132,15 @@ Here are some ideas to get you started:
 
 ### :man_technologist: &nbsp;Activity
 
+#### 2025
+<ul>
+  <li>[Đại học HUTECH] - Chia sẻ về Quản lý dự án phần mềm & Con đường trở thành PM</li>
+  <li>[Đại học HUTECH] - Chia sẻ về Phân tích nghiệp vụ phần mềm & Con đường trở thành BA</li>
+</ul>
+
 #### 2024
 <ul>
+  <li>Tham gia Can Tho Heritage Marathon cự ly 21km</li>
   <li>Tham gia HCMC Night Run Eximbank cự ly 21km</li>
   <li>Tham gia Danang International Marathon cự ly 21km</li>
   <li>[Cao đẳng Văn Lang Sài Gòn] - Chia sẻ về AI - Góc nhìn thực chiến</li>
