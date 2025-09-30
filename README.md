@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 ### :man_technologist: &nbsp;Talks
 
 <ul>
+  <li>[Phan Thiet University] Applying Artificial Intelligence to Support Learning and Scientific Research</li>
   <li>[Nguyen Tat Thanh University] Applying Artificial Intelligence to Support Learning and Scientific Research</li>
   <li>[HUTECH University] From Developer to Project Manager: Opportunities and Challenges</li>
   <li>[HUTECH University] Becoming a Business Analyst: Opportunities and Challenges</li>
@@ -135,6 +136,7 @@ Here are some ideas to get you started:
 
 #### 2025
 <ul>
+  <li>[Đại học Phan Thiết] - Chia sẻ về Áp dụng Trí tuệ nhân tạo hỗ trợ Học tập và Nghiên cứu khoa học</li>
   <li>[Đại học Nguyễn Tất Thành] - Chia sẻ về Áp dụng Trí tuệ nhân tạo hỗ trợ Học tập và Nghiên cứu khoa học</li>
   <li>[Đại học HUTECH] - Chia sẻ về Quản lý dự án phần mềm & Con đường trở thành PM</li>
   <li>[Đại học HUTECH] - Chia sẻ về Phân tích nghiệp vụ phần mềm & Con đường trở thành BA</li>
