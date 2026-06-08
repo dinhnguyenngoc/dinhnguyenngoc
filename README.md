@@ -130,7 +130,7 @@ Here are some ideas to get you started:
 
 <ul>
   <li><a href="https://github.com/dinhnguyenngoc/spec-driven-claude-code">Spec-driven Development with Claude Code - An opinionated SDLC kit for Claude Code — from /spec to /deploy. Agentic spec-driven SDLC for Claude Code (C#/.NET + Node.js).</a></li>
-  <li><a href="https://github.com/dinhnguyenngoc/pair-game">Pair Game</a></li>
+  <li><a href="https://github.com/dinhnguyenngoc/pair-game">Pair Game - A pair game is a type of puzzle game where you have to find and match identical images or objects on a board.</a></li>
 </ul>
 
 ### :man_technologist: &nbsp;Activity
