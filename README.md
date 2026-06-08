@@ -129,6 +129,7 @@ Here are some ideas to get you started:
 ### :man_technologist: &nbsp;Project
 
 <ul>
+  <li><a href="https://github.com/dinhnguyenngoc/spec-driven-claude-code">Spec-driven Development with Claude Code - An opinionated SDLC kit for Claude Code — from /spec to /deploy. Agentic spec-driven SDLC for Claude Code (C#/.NET + Node.js).</a></li>
   <li><a href="https://github.com/dinhnguyenngoc/pair-game">Pair Game</a></li>
 </ul>
 
