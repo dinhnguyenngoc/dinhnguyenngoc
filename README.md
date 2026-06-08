@@ -134,6 +134,11 @@ Here are some ideas to get you started:
 
 ### :man_technologist: &nbsp;Activity
 
+### 2026
+<ul>
+  <li>Đặt chân đến Laos lần thứ 1</li>
+</ul>
+
 #### 2025
 <ul>
   <li>[Đại học Phan Thiết] - Chia sẻ về Áp dụng Trí tuệ nhân tạo hỗ trợ Học tập và Nghiên cứu khoa học</li>
