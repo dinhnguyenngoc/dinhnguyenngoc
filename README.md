@@ -126,12 +126,48 @@ Here are some ideas to get you started:
   <li><a href="https://github.com/dinhnguyenngoc/learning-notes/blob/7af90d2baab134b52aa431e96bf0cdae7441e91a/Learning-Courses-List/M%E1%BB%99t%20s%E1%BB%91%20kh%C3%B3a%20h%E1%BB%8Dc%20v%E1%BB%81%20khoa%20h%E1%BB%8Dc%20m%C3%A1y%20t%C3%ADnh%20v%C3%A0%20l%E1%BA%ADp%20tr%C3%ACnh%20MI%E1%BB%84N%20PH%C3%8D.pdf">Các khóa học về khoa học máy tính và lập trình MIỄN PHÍ</a></li>
 </ul>
 
-### :man_technologist: &nbsp;Project
+### :man_technologist: &nbsp;Highlight Project
 
 <ul>
   <li><a href="https://github.com/dinhnguyenngoc/spec-driven-claude-code">Spec-driven Development with Claude Code - An opinionated SDLC kit for Claude Code — from /spec to /deploy. Agentic spec-driven SDLC for Claude Code (C#/.NET + Node.js).</a></li>
   <li><a href="https://github.com/dinhnguyenngoc/pair-game">Pair Game - A pair game is a type of puzzle game where you have to find and match identical images or objects on a board.</a></li>
 </ul>
+
+### 🎓 Đồ án các môn học Thạc sĩ
+
+Tổng hợp các đồ án trong chương trình — mỗi đề tài có repo riêng kèm mã nguồn, slide và báo cáo.
+
+#### 🗄️ Dữ liệu & Cơ sở dữ liệu
+| Môn học | Đề tài | Công nghệ | Repo |
+|---------|--------|-----------|------|
+| Hệ CSDL Nâng cao | Phân tích mạng xã hội Facebook & xác định người ảnh hưởng | OrientDB · PageRank · Selenium | [social-network-analysis](https://github.com/dinhnguyenngoc/social-network-analysis) |
+| Phân tích Dữ liệu Lớn | Big Data Platform cho chuỗi 60 cửa hàng bán lẻ | Hadoop · Spark · Hive · NiFi · Docker | [retail-bigdata-platform](https://github.com/dinhnguyenngoc/retail-bigdata-platform) |
+| Khai thác Thông tin | Search engine mini (TF-IDF & PageRank) | Apache Spark · OrientDB · Flask | [information-retrieval](https://github.com/dinhnguyenngoc/information-retrieval) |
+
+#### 🤖 Trí tuệ nhân tạo & Học máy
+| Môn học | Đề tài | Công nghệ | Repo |
+|---------|--------|-----------|------|
+| Mạng nơ-ron & Học sâu | DeepFoot — phân loại cầu thủ/thủ môn/trọng tài từ ảnh | CNN · Keras · Transfer Learning | [deepfoot](https://github.com/dinhnguyenngoc/deepfoot) |
+| Xử lý Ngôn ngữ Tự nhiên | Tóm tắt văn bản trích xuất dựa trên đồ thị | TextRank · Cosine Similarity · ROUGE | [extractive-text-summarization](https://github.com/dinhnguyenngoc/extractive-text-summarization) |
+| Khám phá Tri thức & Khai thác Dữ liệu | HEP — High Occupancy Itemset Mining | Itemset Mining · Python | [hep-mining](https://github.com/dinhnguyenngoc/hep-mining) |
+
+#### 🔐 An toàn thông tin & Mật mã
+| Môn học | Đề tài | Công nghệ | Repo |
+|---------|--------|-----------|------|
+| Bảo mật Hệ thống Thông tin | AI-Enabled Threat Detection (IDS + Explainable AI) | ML/DL · SHAP · NSL-KDD | [ai-threat-detection](https://github.com/dinhnguyenngoc/ai-threat-detection) |
+| Mã hóa & Thám mã | Privacy-Preserving ML với Fully Homomorphic Encryption | FHE · Concrete-ML | [privacy-preserving-ml-fhe](https://github.com/dinhnguyenngoc/privacy-preserving-ml-fhe) |
+
+#### ⚙️ Hệ thống & Thuật toán
+| Môn học | Đề tài | Công nghệ | Repo |
+|---------|--------|-----------|------|
+| Hệ Cơ sở Tri thức | Reasoning with Constraints (CSP/COP) | python-constraint · OptaPlanner | [reasoning-with-constraints](https://github.com/dinhnguyenngoc/reasoning-with-constraints) |
+| Tối ưu hóa & Quy hoạch Tuyến tính | Bài giải LP đa phương pháp | Simplex · Duality · LP | [linear-programming-exercises](https://github.com/dinhnguyenngoc/linear-programming-exercises) |
+| Tính toán Phân tán & Song song | Seminar: DistriFusion (CVPR 2024) | Diffusion · GPU · Patch Parallelism | [distrifusion-seminar](https://github.com/dinhnguyenngoc/distrifusion-seminar) |
+
+---
+
+📚 Ghi chú & tài nguyên học tập: [learning-notes](https://github.com/dinhnguyenngoc/learning-notes)
+🎮 Dự án cá nhân: [pair-game](https://github.com/dinhnguyenngoc/pair-game)
 
 ### :man_technologist: &nbsp;Activity
 
