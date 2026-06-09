@@ -1,288 +1,232 @@
-### Hi there 👋
-
-<!--
-**dinhnguyenngoc/dinhnguyenngoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<div id="header">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200px" />
-  <img src="https://media.giphy.com/media/tPnrnG9V6MrjnxVciE/giphy.gif" width="250px" />
+<div id="header" align="center">
+  <h1>Hi, I'm Nguyễn Ngọc Đỉnh 👋</h1>
+  <h3>Software Development Manager @ FPT Telecom · Bringing agentic AI into the software delivery lifecycle</h3>
+  <p><i>An engineering manager who still ships code — and systematizes it:<br/>
+  turning ad-hoc fixes into standards, repeatable processes, and continuous improvement.</i></p>
+  <p>🎤 <b>Mentor & Speaker</b></p>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/dinhnn/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/@toppingvlog">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://www.facebook.com/dinhnguyenngoc">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:dinhnguyenngoc@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Photos-blue?style=for-the-badge&logo=photos&logoColor=white" alt="Photo Badge"/>
+  <a href="https://www.youtube.com/@toppingvlog">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-</div>
-
-### :man_technologist: &nbsp;About Me
-
-<p>I graduated with a degree in Software Technology. Over my career, I have held various positions including Developer, Team Leader, Project Manager, Solution Architect, and Manager.</p>
-<p>I am serving as the Software Development Manager at FPT Telecom, and I am also engaged in mentoring at FUNiX, as well as being a speaker at various events at universities.</p>
-<p>My current interests lie in areas such as <a href="https://github.com/dinhnguyenngoc/learning-notes/tree/main/Project-Management">Project Management</a>, <a href="https://github.com/dinhnguyenngoc/learning-notes/tree/main/Business-Analyst">Business Analysis</a>, <a href="https://github.com/dinhnguyenngoc/learning-notes/tree/main/Microservices-and-Cloud-native-Apps">Cloud Native and Microservices</a>, Application Monitoring and Observability, Real-time ETL, <a href="https://github.com/dora-team/fourkeys">High-Performing Teams</a>, and <a href="https://github.com/dinhnguyenngoc/learning-notes/blob/main/ChatGPT-Use-Cases/ChatGPT%20-%2023%20Use%20Cases.pdf">Prompt Engineering</a>.</p>
-<p>In my free time, I like to go running, play badminton, have coffee with friends, and go traveling and camping.</p>
-
-<div id="footer">
-  <a href="https://github.com/dinhnguyenngoc/learning-notes">
-    <img src="https://img.shields.io/badge/my_learning_notes-blue?style=for-the-badge" alt="Resume Badge"/>
-  </a>
-  <a href="https://github.com/dinhnguyenngoc/dinhnn/blob/master/profile/Dinh-Nguyen-CV.pdf">
-    <img src="https://img.shields.io/badge/my_resume-red?style=for-the-badge" alt="Resume Badge"/>
+  <a href="https://www.facebook.com/dinhnguyenngoc">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://dinhnguyenngoc.wordpress.com">
-    <img src="https://img.shields.io/badge/my_wordpress_blog-blue?style=for-the-badge" alt="Blog Badge"/>
+    <img src="https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog"/>
   </a>
-  <a href="https://dinhnguyenngoc.github.io/news-feed">
-    <img src="https://img.shields.io/badge/my_Jekyll_blog-red?style=for-the-badge" alt="Blog Badge"/>
+  <a href="https://github.com/dinhnguyenngoc/dinhnn/blob/master/profile/Dinh-Nguyen-CV.pdf">
+    <img src="https://img.shields.io/badge/Resume-555?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
   </a>
 </div>
 
-### :man_technologist: &nbsp;Talks
-
-<ul>
-  <li>[Phan Thiet University] Applying Artificial Intelligence to Support Learning and Scientific Research</li>
-  <li>[Nguyen Tat Thanh University] Applying Artificial Intelligence to Support Learning and Scientific Research</li>
-  <li>[HUTECH University] From Developer to Project Manager: Opportunities and Challenges</li>
-  <li>[HUTECH University] Becoming a Business Analyst: Opportunities and Challenges</li>
-  <li>[Van Lang Sai Gon College] AI Applications in Education</li>
-  <li>[HUTECH University] Project Management Fundamentals</li>
-  <li>[HUTECH University] IT Business Analysis Fundamentals</li>
-  <li>[University of Science] Digital Transformation and Opportunities for Students</li>
-  <li>[Van Hien University] ChatGPT: Capabilities, Opportunities, and Challenges</li>
-  <li>[FPT University] Building and Deploying Web Applications and the Career Path of a Front-end Developer</li>
-  <li>[University of Science] How to Build, Deploy, and Scale Software Application</li>
-  <li>[FPT Telecom] IT Business Analysis for Product Owners</li>
-  <li>[FUNiX University] Impressive Resume Writing Skills and Effective Interview Techniques</li>
-  <li>[FUNiX University] Career Path for a Full-time Developer in a Corporate Environment</li>
-  <li>[University of Science] Real-World In-House Software Projects in Businesses</li>
-  <li>[University of Science] Roles, Responsibilities, and Career Path of a Project Manager</li>
-  <li>[HUTECH University] My Story, Your Choice</li>
-  <li>[Vietnam Mobile Day] FPT Telecom's Mobile Ecosystem Serving Customers</li>
-  <li>[Open University] Connecting with FPT - Turning Opportunities into Reality</li>
-  <li>[FPT Tech Day] Facial Recognition Technology and Its Real-World Applications</li>
-</ul>
-
-### :man_technologist: &nbsp;Training
-
-<ul>
-  <li>ChatGPT & Google Gemini - Bí quyết viết Prompt hiệu quả | Udemy</li>
-  <li>[FPT Telecom] Project Management Course</li>
-  <li>[FPT Telcom] Business Analysis Course</li>
-</ul>
-
-### :man_technologist: &nbsp;Coaching & Mentoring
-
-<ul>
-  <li>[FPT Telecom] Mentor for Mentorship Program 2025</li>
-  <li>[FPT Telecom] Mentor for Mentorship Program 2024</li>
-  <li>[FPT Telecom] Mentor for Mentorship Program 2023</li>
-  <li>[FPT Telecom] Mentor for Mentorship Program 2022</li>
-  <li>[FPT Telecom - ISC] Master for "Sư phụ - Đệ tử" Program 2021</li>
-</ul>
-
-### :man_technologist: &nbsp;Running
-
-<ul>
-  <li>Can Tho Heritage Marathon 2024, 21km</li>
-  <li>HCMC Night Run Eximbank 2024, 21km</li>
-  <li>Danang International Marathon 2024, 21km</li>
-  <li>VnExpress HCMC Midnight Marathon 2024, 21km</li>
-  <li>Ho Chi Minh City Marathon 2024, 21km</li>
-  <li>Pocari Sweat Run 2023, 21km</li>
-  <li>VnExpress Marathon HCMC Midnight 2023, 10km</li>
-  <li>Techcombank International Marathon Ho Chi Minh 2019, 21km</li>
-  <li>Revive Marathon 2019, 21km</li>
-  <li>VnExpress Marathon Quy Nhon 2019, 10km</li>
-</ul>
-
-### :man_technologist: &nbsp;Resources
-
-<ul>
-  <li><a href="https://github.com/dinhnguyenngoc/learning-notes/blob/b99037d3acce9ec4c4119947af03b3ed6bd1f3cd/macOS-App-List/macOS-App-List.pdf">Các ứng dụng macOS hữu ích (macOS Application List)</a></li>
-  <li><a href="https://github.com/dinhnguyenngoc/learning-notes/blob/b99037d3acce9ec4c4119947af03b3ed6bd1f3cd/ChatGPT-Use-Cases/ChatGPT%20-%2023%20Use%20Cases.pdf">Hướng dẫn dùng ChatGPT (ChatGPT Use Cases)</a></li>
-  <li><a href="https://github.com/dinhnguyenngoc/learning-notes/blob/7af90d2baab134b52aa431e96bf0cdae7441e91a/Learning-Courses-List/M%E1%BB%99t%20s%E1%BB%91%20kh%C3%B3a%20h%E1%BB%8Dc%20v%E1%BB%81%20khoa%20h%E1%BB%8Dc%20m%C3%A1y%20t%C3%ADnh%20v%C3%A0%20l%E1%BA%ADp%20tr%C3%ACnh%20MI%E1%BB%84N%20PH%C3%8D.pdf">Các khóa học về khoa học máy tính và lập trình MIỄN PHÍ</a></li>
-</ul>
-
-### :man_technologist: &nbsp;Highlight Project
-
-<ul>
-  <li><a href="https://github.com/dinhnguyenngoc/spec-driven-claude-code">Spec-driven Development with Claude Code - An opinionated SDLC kit for Claude Code — from /spec to /deploy. Agentic spec-driven SDLC for Claude Code (C#/.NET + Node.js).</a></li>
-  <li><a href="https://github.com/dinhnguyenngoc/pair-game">Pair Game - A pair game is a type of puzzle game where you have to find and match identical images or objects on a board.</a></li>
-</ul>
-
-### 🎓 Tiểu luận các môn học Thạc sĩ
-
-Tổng hợp các đồ án trong chương trình — mỗi đề tài có repo riêng kèm mã nguồn, slide và báo cáo.
-
-#### 🗄️ Dữ liệu & Cơ sở dữ liệu
-| Môn học | Đề tài | Công nghệ | Repo |
-|---------|--------|-----------|------|
-| Hệ CSDL Nâng cao | Phân tích mạng xã hội Facebook & xác định người ảnh hưởng | OrientDB · PageRank · Selenium | [social-network-analysis](https://github.com/dinhnguyenngoc/social-network-analysis) |
-| Phân tích Dữ liệu Lớn | Big Data Platform cho chuỗi 60 cửa hàng bán lẻ | Hadoop · Spark · Hive · NiFi · Docker | [retail-bigdata-platform](https://github.com/dinhnguyenngoc/retail-bigdata-platform) |
-| Khai thác Thông tin | Search engine mini (TF-IDF & PageRank) | Apache Spark · OrientDB · Flask | [information-retrieval](https://github.com/dinhnguyenngoc/information-retrieval) |
-
-#### 🤖 Trí tuệ nhân tạo & Học máy
-| Môn học | Đề tài | Công nghệ | Repo |
-|---------|--------|-----------|------|
-| Mạng nơ-ron & Học sâu | DeepFoot — phân loại cầu thủ/thủ môn/trọng tài từ ảnh | CNN · Keras · Transfer Learning | [deepfoot-football-role-classification](https://github.com/dinhnguyenngoc/deepfoot-football-role-classification) |
-| Xử lý Ngôn ngữ Tự nhiên | Tóm tắt văn bản trích xuất dựa trên đồ thị | TextRank · Cosine Similarity · ROUGE | [extractive-text-summarization](https://github.com/dinhnguyenngoc/extractive-text-summarization) |
-| Khám phá Tri thức & Khai thác Dữ liệu | HEP — High Occupancy Itemset Mining | Itemset Mining · Python | [high-occupancy-itemset-mining](https://github.com/dinhnguyenngoc/high-occupancy-itemset-mining) |
-
-#### 🔐 An toàn thông tin & Mật mã
-| Môn học | Đề tài | Công nghệ | Repo |
-|---------|--------|-----------|------|
-| Bảo mật Hệ thống Thông tin | AI-Enabled Threat Detection (IDS + Explainable AI) | ML/DL · SHAP · NSL-KDD | [ai-network-intrusion-detection](https://github.com/dinhnguyenngoc/ai-network-intrusion-detection) |
-| Mã hóa & Thám mã | Privacy-Preserving ML với Fully Homomorphic Encryption | FHE · Concrete-ML | [privacy-preserving-ml-fhe](https://github.com/dinhnguyenngoc/privacy-preserving-ml-fhe) |
-
-#### ⚙️ Hệ thống & Thuật toán
-| Môn học | Đề tài | Công nghệ | Repo |
-|---------|--------|-----------|------|
-| Hệ Cơ sở Tri thức | Reasoning with Constraints (CSP/COP) | python-constraint · OptaPlanner | [reasoning-with-constraints](https://github.com/dinhnguyenngoc/reasoning-with-constraints) |
-| Tối ưu hóa & Quy hoạch Tuyến tính | Bài giải LP đa phương pháp | Simplex · Duality · LP | [linear-programming-exercises](https://github.com/dinhnguyenngoc/linear-programming-exercises) |
-| Tính toán Phân tán & Song song | Seminar: DistriFusion (CVPR 2024) | Diffusion · GPU · Patch Parallelism | [distrifusion-distributed-diffusion-inference](https://github.com/dinhnguyenngoc/distrifusion-distributed-diffusion-inference) |
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dinhnguyenngoc&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
 
 ---
 
-📚 Ghi chú & tài nguyên học tập: [learning-notes](https://github.com/dinhnguyenngoc/learning-notes)
+## 👨‍💻 About Me
 
-### :man_technologist: &nbsp;Activity
+I hold a degree in Software Technology and have grown through roles as **Developer → Team Leader → Project Manager → Solution Architect → Manager**. Today I'm the **Software Development Manager at FPT Telecom**, a **mentor at FUNiX**, and a frequent **speaker** at universities and industry events.
 
-#### 2026
-<ul>
-  <li>Đặt chân đến Laos lần thứ 1</li>
-</ul>
+Lately I've been focused on **AI-assisted software delivery** — I've built an opinionated, **agentic spec-driven SDLC kit** for AI coding agents (`/spec` → `/deploy`) and am currently **piloting it with engineering teams** to make delivery faster and more consistent. I stay hands-on through the technical projects below. My interests span **Project Management**, **Business Analysis**, **Cloud-native & Microservices**, **Application Monitoring & Observability**, **Real-time ETL**, **High-Performing Teams**, and **Prompt Engineering**.
 
-#### 2025
-<ul>
-  <li>[Đại học Phan Thiết] - Chia sẻ về Áp dụng Trí tuệ nhân tạo hỗ trợ Học tập và Nghiên cứu khoa học</li>
-  <li>[Đại học Nguyễn Tất Thành] - Chia sẻ về Áp dụng Trí tuệ nhân tạo hỗ trợ Học tập và Nghiên cứu khoa học</li>
-  <li>[Đại học HUTECH] - Chia sẻ về Quản lý dự án phần mềm & Con đường trở thành PM</li>
-  <li>[Đại học HUTECH] - Chia sẻ về Phân tích nghiệp vụ phần mềm & Con đường trở thành BA</li>
-</ul>
+**How I work:** systems thinking and root-cause solving over quick fixes — I build for standardization, optimization, and solutions that scale beyond a single project.
 
-#### 2024
-<ul>
-  <li>Tham gia Can Tho Heritage Marathon cự ly 21km</li>
-  <li>Tham gia HCMC Night Run Eximbank cự ly 21km</li>
-  <li>Tham gia Danang International Marathon cự ly 21km</li>
-  <li>[Cao đẳng Văn Lang Sài Gòn] - Chia sẻ về AI - Góc nhìn thực chiến</li>
-  <li>Tham gia VnExpress Marathon HCMC Midnight cự ly 21km</li>
-  <li>Tham gia Ho Chi Minh City Marathon cự ly 21km</li>
-</ul>
+Outside work: running, badminton, coffee with friends, traveling and camping. 🏃☕🏕️
 
-#### 2023
+---
 
-<ul>
-  <li>Tham gia Pocari Sweat Run cự ly 21km</li>
-  <li>[Đại học HUTECH] - Chia sẻ về Quản lý dự án phần mềm</li>
-  <li>[Đại học HUTECH] - Chia sẻ về Phân tích nghiệp vụ phần mềm</li>
-  <li>[Đại học KHTN] - Chia sẻ về Chuyển đổi số - Vai trò, phương pháp, công nghệ và cơ hội nghề nghiệp</li>
-  <li>[Đại học Văn Hiến] - Chia sẻ ChatGPT - khả năng, thách thức và cơ hội cho sinh viên</li>
-  <li>Tham gia VnExpress Marathon HCMC Midnight cư ly 10km</li>
-</ul>
+## 🧭 Leadership & Management
 
-#### 2022
+- **People Leadership** — Team Management · Hiring & Talent Development · Performance & Career Development
+- **People Development** — Coaching & Training · Mentoring · Motivation & Team Engagement
+- **Delivery & Execution** — Software Development Lifecycle (SDLC) · Agile Project Management · Data-Driven Decision Making
+- **Strategy & Change** — AI & Data Strategy · Systems Thinking · Process Standardization & Optimization · Change Management
+- **Communication** — Stakeholder Management · Cross-functional Collaboration · Problem Solving
 
-<ul>
-  <li>[FPT University] - Chia sẻ Cách thức phát triển, triển khai ứng dụng web và con đường nghề nghiệp của Front-end Developer</li>
-  <li>[HCMUS] Người Trong Nghề - Doanh nghiệp chia sẻ Cách thức xây dựng, triển khai và mở rộng phần mềm</li>
-</ul>
+---
 
-#### 2021
+## 🛠️ Tech Stack
 
-<ul>
-  <li>Tốt nghiệp khóa Bếp Việt tại trường Netspace</li>
-</ul>
+**Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C#/.NET](https://img.shields.io/badge/-C%23%20%2F%20.NET-512BD4?logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
 
-#### 2020
+**Architecture**
+![Microservices](https://img.shields.io/badge/-Microservices-555)
+![Distributed Systems](https://img.shields.io/badge/-Distributed%20Systems-555)
+![Real-time ETL](https://img.shields.io/badge/-Real--time%20ETL-555)
+![Cloud-native](https://img.shields.io/badge/-Cloud--native-555)
 
-<ul>
-  <li>Ngủ đông qua đại dịch thế kỷ - COVID-19</li>
-</ul>
+**Data & Big Data**
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?logo=apachehadoop&logoColor=black)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white)
 
-#### 2019
+**Databases**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 
-<ul>
-  <li>[FUNiX] xDay 47 - Kỹ năng viết CV ấn tượng và phỏng vấn hiệu quả</li>
-  <li>[FUNiX] xDay 48 - Career Paths cho hướng đi Full-time Developer tại doanh nghiệp</li>
-  <li>[HCMUS] Người Trong Nghề - Doanh nghiệp chia sẻ Các dự án in-house thực tế</li>
-  <li>Tham gia Techcombank International Marathon HCM cự ly Half marathon 21km</li>
-  <li>Tham gia Revive Marathon Quận 7 cự ly 21km</li>
-  <li>Tham gia VnExpress Marathon Quy Nhơn cự ly 10km</li>
-  <li>Đặt chân đến Thailand lần thứ 2</li>
-  <li>Đặt chân đến Singapore lần thứ 3</li>
-  <li>Đặt chân đến Cambodia lần thứ 3</li>
-</ul>
+**AI / ML**
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![YOLO](https://img.shields.io/badge/-YOLO-00CFFF?logo=ultralytics&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 
-#### 2018
+**AI Coding Agents**
+![Claude](https://img.shields.io/badge/-Claude-D97757?logo=claude&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-74AA9C?logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white)
 
-<ul>
-  <li>[HCMUS] Người Trong Nghề - Doanh nghiệp chia sẻ Vai trò, nhiệm vụ, con đường nghề nghiệp của người Quản trị dự án</li>
-  <li>Tốt nghiệp MiniMBA tại trường FPT School of Business & Technology</li>
-  <li>Talkshow chào đón Tân sinh viên với chủ đề "Câu chuyện của tôi, sự lựa chọn của bạn" tại Đại học Hutech</li>
-  <li>Đặt chân đến Thailand lần thứ 1</li>
-  <li>Đặt chân đến Cambodia lần thứ 2</li>
-  <li>Đặt chân đến Malaysia lần 3</li>
-</ul>
+**Observability & Testing**
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
+![Grafana k6](https://img.shields.io/badge/-Grafana%20k6-7D64FF?logo=k6&logoColor=white)
 
-#### 2017
+**Platform & Ops**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 
-<ul>
-  <li>Diễn giả tại Vietnam Mobile Day với chủ đề “Hệ sinh thái di động của FPT Telecom hướng đến phục vụ khách hàng”</li>
-  <li>Leader Talk tại ĐH Mở với chủ đề "Kết nối FPT - Chuyển cơ hội thành hiện thực"</li>
-  <li>Đặt chân đến Cambodia lần thứ 1</li>
-</ul>
+---
 
-#### 2016
+## ⭐ Highlight Projects
 
-<ul>
-  <li>Tham gia công việc Mentor tại FUNiX - Hệ sinh thái học trực tuyến Công nghệ thông tin</li>
-  <li>Đặt chân đến Singapore lần thứ 2</li>
-</ul>
+- **[Spec-driven Development with Claude Code](https://github.com/dinhnguyenngoc/spec-driven-claude-code)** — An opinionated, agentic SDLC kit taking AI coding agents from `/spec` to `/deploy`, designed to standardize delivery across teams (C#/.NET + Node.js). *Currently piloting in the enterprise.*
 
-#### 2015
+---
 
-<ul>
-  <li>Diễn giả tại FPT Techday với chủ đề “Công nghệ nhận diện khuôn mặt và các ứng dụng thực tế”</li>
-  <li>Top 100 cán bộ xuất sắc tập đoàn FPT, tham dự lễ vinh danh tại Myanmar</li>
-  <li>Bắt đầu chơi Nhiếp ảnh</li>
-  <il>Đặt chân đến Myanmar lần thứ 1</li>
-  <li>Đặt chân đến Singapore lần thứ 1</li>
-  <li>Đặt chân đến Malaysia lần 2</li>
-</ul>
+## 🎓 Master's Coursework Projects
 
-#### 2013
+Hands-on projects from my M.Sc. program — each has its own repository with source code, slides and a report.
 
-<ul>
-  <li>Đặt chân đến Malaysia lần 1</li>
-</ul>
+### 🗄️ Data & Databases
+| Course | Project | Tech | Repo |
+|--------|---------|------|------|
+| Advanced Database Systems | Social network analysis — detecting influential users (weighted influence score + PageRank on a graph) | OrientDB · PageRank · Selenium | [social-network-analysis](https://github.com/dinhnguyenngoc/social-network-analysis) |
+| Big Data Analytics | End-to-end big data platform for a 60-store retail chain (~388,800 CSV files/year; solves the small-file problem) | Hadoop · Spark · Hive · NiFi · Docker | [retail-bigdata-platform](https://github.com/dinhnguyenngoc/retail-bigdata-platform) |
+| Information Retrieval | A mini search engine ranking web pages with TF-IDF & PageRank | Apache Spark · OrientDB · Flask | [information-retrieval](https://github.com/dinhnguyenngoc/information-retrieval) |
 
-<img src="https://komarev.com/ghpvc/?username=dinhnguyenngoc&label=Profile%20views&color=0e75b6&style=flat" alt="dinhnguyenngoc" />
+### 🤖 Artificial Intelligence & Machine Learning
+| Course | Project | Tech | Repo |
+|--------|---------|------|------|
+| Neural Networks & Deep Learning | DeepFoot — classifying player / goalkeeper / referee from football images (~93% val/test accuracy) | CNN · Keras · Transfer Learning | [deepfoot-football-role-classification](https://github.com/dinhnguyenngoc/deepfoot-football-role-classification) |
+| Natural Language Processing | Graph-based extractive text summarization, evaluated with ROUGE on DUC2002 | TextRank · Cosine Similarity · ROUGE | [extractive-text-summarization](https://github.com/dinhnguyenngoc/extractive-text-summarization) |
+| Knowledge Discovery & Data Mining | HEP — High Occupancy Itemset Mining (Deng, 2017) reimplemented & visualized | Itemset Mining · Python | [high-occupancy-itemset-mining](https://github.com/dinhnguyenngoc/high-occupancy-itemset-mining) |
 
-<!--
-🌱 I’m currently building a resource learning
-https://flywcode.com/
--->
+### 🔐 Information Security & Cryptography
+| Course | Project | Tech | Repo |
+|--------|---------|------|------|
+| Information Systems Security | AI-enabled threat detection — network intrusion detection with Explainable AI | ML/DL · SHAP · NSL-KDD | [ai-network-intrusion-detection](https://github.com/dinhnguyenngoc/ai-network-intrusion-detection) |
+| Cryptography & Cryptanalysis | Privacy-preserving ML with Fully Homomorphic Encryption (encrypted inference) | FHE · Concrete-ML | [privacy-preserving-ml-fhe](https://github.com/dinhnguyenngoc/privacy-preserving-ml-fhe) |
+
+### ⚙️ Systems & Algorithms
+| Course | Project | Tech | Repo |
+|--------|---------|------|------|
+| Knowledge-Based Systems | Reasoning with Constraints — CSP/COP solvers with benchmarks (crossword, N-Queens, timetabling, routing) | python-constraint · OptaPlanner | [reasoning-with-constraints](https://github.com/dinhnguyenngoc/reasoning-with-constraints) |
+| Optimization & Linear Programming | Worked LP solutions across methods (graphical, simplex, Big-M, duality) | Simplex · Duality · LP | [linear-programming-exercises](https://github.com/dinhnguyenngoc/linear-programming-exercises) |
+| Distributed & Parallel Computing | Seminar study of **DistriFusion** (CVPR 2024) — distributed diffusion inference, up to **6.1× speedup** on 8 GPUs | Diffusion · GPU · Patch Parallelism | [distrifusion-distributed-diffusion-inference](https://github.com/dinhnguyenngoc/distrifusion-distributed-diffusion-inference) |
+
+> 📚 Study notes & curated resources: **[learning-notes](https://github.com/dinhnguyenngoc/learning-notes)**
+
+---
+
+## 🎤 Speaking & Community
+
+<details>
+<summary><b>Talks & guest lectures</b> (20+ — click to expand)</summary>
+
+- [Phan Thiet University] Applying Artificial Intelligence to Support Learning and Scientific Research
+- [Nguyen Tat Thanh University] Applying Artificial Intelligence to Support Learning and Scientific Research
+- [HUTECH University] From Developer to Project Manager: Opportunities and Challenges
+- [HUTECH University] Becoming a Business Analyst: Opportunities and Challenges
+- [Van Lang Saigon College] AI Applications in Education
+- [HUTECH University] Project Management Fundamentals
+- [HUTECH University] IT Business Analysis Fundamentals
+- [University of Science] Digital Transformation and Opportunities for Students
+- [Van Hien University] ChatGPT: Capabilities, Opportunities, and Challenges
+- [FPT University] Building & Deploying Web Apps and the Front-end Developer Career Path
+- [University of Science] How to Build, Deploy, and Scale Software Applications
+- [FPT Telecom] IT Business Analysis for Product Owners
+- [FUNiX] Impressive Résumé Writing & Effective Interview Techniques
+- [FUNiX] Career Path for a Full-time Developer in a Corporate Environment
+- [University of Science] Real-World In-House Software Projects in Businesses
+- [University of Science] Roles, Responsibilities & Career Path of a Project Manager
+- [HUTECH University] My Story, Your Choice
+- [Vietnam Mobile Day] FPT Telecom's Mobile Ecosystem Serving Customers
+- [Open University] Connecting with FPT — Turning Opportunities into Reality
+- [FPT Tech Day] Facial Recognition Technology and Its Real-World Applications
+
+</details>
+
+**🧑‍🏫 Coaching & Mentoring**
+- FPT Telecom — Mentor, Mentorship Program (2022, 2023, 2024, 2025)
+- FPT Telecom (ISC) — Lead Mentor, "Sư phụ – Đệ tử" Program (2021)
+
+**📖 Training**
+- ChatGPT & Google Gemini — Effective Prompt Writing (Udemy)
+- FPT Telecom — Project Management Course
+- FPT Telecom — Business Analysis Course
+
+---
+
+## 🧰 Resources I've Shared
+
+- [Useful macOS apps](https://github.com/dinhnguyenngoc/learning-notes/blob/main/macOS-App-List/macOS-App-List.pdf)
+- [ChatGPT — 23 Use Cases](https://github.com/dinhnguyenngoc/learning-notes/blob/main/ChatGPT-Use-Cases/ChatGPT%20-%2023%20Use%20Cases.pdf)
+- [Free computer-science & programming courses](https://github.com/dinhnguyenngoc/learning-notes/tree/main/Learning-Courses-List)
+
+---
+
+## 🏃 Beyond Code
+
+<details>
+<summary><b>Running</b> — half-marathons & races (click to expand)</summary>
+
+- Can Tho Heritage Marathon 2024 — 21 km
+- HCMC Night Run Eximbank 2024 — 21 km
+- Danang International Marathon 2024 — 21 km
+- VnExpress HCMC Midnight Marathon 2024 — 21 km
+- Ho Chi Minh City Marathon 2024 — 21 km
+- Pocari Sweat Run 2023 — 21 km
+- VnExpress Marathon HCMC Midnight 2023 — 10 km
+- Techcombank International Marathon HCMC 2019 — 21 km
+- Revive Marathon (District 7) 2019 — 21 km
+- VnExpress Marathon Quy Nhon 2019 — 10 km
+
+</details>
+
+<details>
+<summary><b>Milestones & travel</b> (2013–2026, click to expand)</summary>
+
+- **2026** — First trip to Laos
+- **2021** — Graduated from the "Vietnamese Cuisine" course at Netspace
+- **2018** — Graduated from the MiniMBA at FPT School of Business & Technology
+- **2015** — Top 100 outstanding employees of FPT Corporation (award ceremony in Myanmar); started photography
+- **Travel** — Malaysia, Singapore, Thailand, Cambodia, Myanmar, Laos
+
+</details>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dinhnguyenngoc&show_icons=true&hide_border=true" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhnguyenngoc&layout=compact&hide_border=true" alt="Top languages" height="160"/>
+</div>
