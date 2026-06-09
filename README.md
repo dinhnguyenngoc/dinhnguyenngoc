@@ -45,6 +45,15 @@ Outside work: running, badminton, coffee with friends, traveling and camping. �
 
 ---
 
+## 💡 What I Bring
+
+- **Faster, more consistent delivery** — I bring AI-assisted, spec-driven engineering practices that turn ad-hoc work into repeatable, standardized processes.
+- **Teams that scale** — I build and grow high-performing engineering teams through hiring, coaching and mentoring.
+- **Technical credibility** — still hands-on across architecture, data and AI/ML, so I lead with substance, not just process.
+- **Strategy into execution** — I translate AI & data strategy into shipped outcomes and measurable improvement.
+
+---
+
 ## 🧭 Leadership & Management
 
 - **People Leadership** — Team Management · Hiring & Talent Development · Performance & Career Development
@@ -65,10 +74,10 @@ Outside work: running, badminton, coffee with friends, traveling and camping. �
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
 
 **Architecture**
+![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-555)
 ![Microservices](https://img.shields.io/badge/-Microservices-555)
-![Distributed Systems](https://img.shields.io/badge/-Distributed%20Systems-555)
-![Real-time ETL](https://img.shields.io/badge/-Real--time%20ETL-555)
-![Cloud-native](https://img.shields.io/badge/-Cloud--native-555)
+![Domain-Driven Design](https://img.shields.io/badge/-Domain--Driven%20Design%20(DDD)-555)
+![Event-Driven Architecture](https://img.shields.io/badge/-Event--Driven%20Architecture-555)
 
 **Data & Big Data**
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)
@@ -76,18 +85,18 @@ Outside work: running, badminton, coffee with friends, traveling and camping. �
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white)
 
 **Databases**
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch&logoColor=white)
 
 **AI / ML**
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![YOLO](https://img.shields.io/badge/-YOLO-00CFFF?logo=ultralytics&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
+![YOLO](https://img.shields.io/badge/-YOLO-00CFFF?logo=ultralytics&logoColor=white)
 
 **AI Coding Agents**
 ![Claude](https://img.shields.io/badge/-Claude-D97757?logo=claude&logoColor=white)
@@ -97,11 +106,15 @@ Outside work: running, badminton, coffee with friends, traveling and camping. �
 **Observability & Testing**
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
+![Kibana](https://img.shields.io/badge/-Kibana-005571?logo=kibana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-000000?logo=opentelemetry&logoColor=white)
 ![Grafana k6](https://img.shields.io/badge/-Grafana%20k6-7D64FF?logo=k6&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=white)
 
 **Platform & Ops**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 
@@ -178,10 +191,10 @@ Hands-on projects from my M.Sc. program — each has its own repository with sou
 
 **🧑‍🏫 Coaching & Mentoring**
 - FPT Telecom — Mentor, Mentorship Program (2022, 2023, 2024, 2025)
-- FPT Telecom (ISC) — Lead Mentor, "Sư phụ – Đệ tử" Program (2021)
+- FPT Telecom (ISC) — Mentor, "Sư phụ – Đệ tử" Program (2021)
 
 **📖 Training**
-- ChatGPT & Google Gemini — Effective Prompt Writing (Udemy)
+- ChatGPT & Google Gemini — Effective Prompt Writing
 - FPT Telecom — Project Management Course
 - FPT Telecom — Business Analysis Course
 
